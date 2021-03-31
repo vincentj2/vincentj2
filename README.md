@@ -3,3 +3,6 @@
 ![sangwon's github stats](https://github-readme-stats.vercel.app/api?username=vincentj2&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vincentj2)](https://github.com/ryo-ma/github-profile-trophy)
+
+#### Work Experience
+- HYUNDAI AutoEver (2020.01 - 2021.01)
