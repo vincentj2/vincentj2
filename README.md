@@ -8,5 +8,4 @@
 - HYUNDAI AutoEver (2020.01 - 2021.01)
 
 #### Education
-- Ajou Univ, Software B.S (2017.07 - 2020.02)
-- Ajou Univ, Transportation System Engineering (2014.03 - 2017.07)
+- Ajou Univ, Software B.S (2014.03 - 2020.02)
