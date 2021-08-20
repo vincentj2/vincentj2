@@ -8,4 +8,4 @@
 - LG CNS (2021.08 ~ )
 
 #### Education
-- Ajou Univ, Software B.S (2014.03 - 2020.02)
+- Ajou Univ, Software B.S
