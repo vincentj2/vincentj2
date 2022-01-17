@@ -1,5 +1,5 @@
 ## Jeong sangwon
-[Resume](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5a5325ac-c179-4163-a564-e0e2c47354c2/_.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220105%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220105T150406Z&X-Amz-Expires=86400&X-Amz-Signature=c6936c366e4f586abd205f35f95a1b4207aeaa0442c827b1ee1f59bd23ce2131&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_.pdf%22&x-id=GetObject)
+
 <br>
 
 ## Skills
