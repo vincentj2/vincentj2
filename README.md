@@ -18,7 +18,6 @@
 
  ## Work
 <img src='https://img.shields.io/badge/LG CNS 2021.08%20~-A50034.svg?style=for-the-badge&logo=lg&logoColor=white'>
-<img src='https://img.shields.io/badge/Hyundai Autoever 2020.01%20~%202021.01-002C5F.svg?style=for-the-badge&logo=Hyundai&logoColor=white'>
  
 <br>
  
